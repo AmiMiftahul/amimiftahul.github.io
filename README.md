@@ -1,2 +1,1 @@
-# amimiftahul.github.io
-console.log("hello world");
+# amimiftahul.github.io fuck you
